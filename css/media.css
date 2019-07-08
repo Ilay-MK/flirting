@@ -1,0 +1,207 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+    header h1 {
+		width: 80%;
+    }
+	.compare .desc-l, .compare .desc-r {
+		font-size: 16px;
+	}
+	.compare .vs {
+		font-size: 26px;
+    	line-height: 150px;
+	}
+	section.advantages .block {
+		margin: 60px 30px;
+	}
+	.syllabus .day-txt {
+		font-size: 15px;
+		line-height: 175%;
+	}
+	.footer .soc-block p {
+    	margin-left: auto;
+	}
+	.footer .logo {
+		margin-top: 37px;
+	}
+	.footer .soc-block {
+		margin-top: 32px;
+	}
+	.footer ul.social-network {
+		margin-top: 0px;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 991px) {
+    .compare .vs2 {
+        line-height: 130px;
+    }
+    section.competition h2 {
+        text-align: center;
+    }
+    form .cta-title {
+        margin-bottom: 10px;
+    }
+    body {
+        font-size: 18px;
+    }
+	header .logo {
+		margin-top: 35px;	
+	}
+	header h1 {
+		margin: 100px auto 50px auto;
+    	width: 100%;
+	}
+	header .cta-title {
+		font-size: 22px;
+	}
+	.block-left {
+		padding: 100px 30px !important;
+	}
+	.block-left div {
+		margin: 40px 0 !important;
+	}
+	.block-right {
+		padding: 100px 30px !important;
+	}
+	.block-right div {
+		margin: 40px 0 !important;
+	}
+	section.advantages .block {
+		margin: 50px 20px;
+	}
+	.syllabus .day-txt {
+		font-size: 13px;
+		line-height: 142%;
+		height: 129px;
+	}
+	.h160 {
+		height: 200px !important;	
+	}
+	.popover {
+		height: 200px;
+		width: 375px;
+	}
+	.popover .teaser {
+		width: auto;
+	}
+	.graduates .bg-img .arrow {
+		top: 85px;
+	}
+	.graduates .bg-img-dima .arrow {
+		left: -4px;
+	}
+	.graduates .bg-img-sergey .arrow {
+		left: -4px;
+	}
+	.graduates .bg-img-sasha .arrow {
+		left: auto;
+		right: -10px;
+	}
+	.graduates .reviews .h160 {
+		 width: 50%;
+	}
+	.syllabus .line {
+		height: 157px;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767px) {
+	body {
+		width: 1200px;
+	}
+	.compare .desc-l, .compare .desc-r {
+		font-size: 20px;
+	}
+	.compare .vs {
+		font-size: 34px;
+		line-height: 345px;
+	}
+	section.advantages .block {
+    	margin: 60px 0px;
+	}
+	.syllabus .day-txt {
+		font-size: 18px;
+		line-height: 140%;
+	}
+	.footer .logo {
+    	margin-top: 15px;
+	}
+	.footer .soc-block {
+    	margin-top: 22px;
+	}
+	.footer ul.social-network {
+		margin-top: 13px;
+	}
+.compare .vs2 {
+        line-height: 140px;
+    }
+    section.competition h2 {
+        text-align: left;
+    }
+    body {
+    	font-size: 20px;
+    }
+	header .logo {
+    	margin-top: 48px;
+	}
+	header h1 {
+    	margin: 124px 0px 60px 0px;
+    	width: 65%;
+	}
+	header .cta-title {
+    	font-size: 24px;
+	}
+	.block-left {
+    	padding: 95px 36px !important;
+	}
+	.block-left div {
+		margin: 40px 0 !important;
+	}
+	.block-right {
+		padding: 95px 36px !important;
+	}
+	.block-right div {
+		margin: 40px 0 !important;
+	}
+	section.advantages .block {
+    	margin: 60px 0px;
+	}
+	.syllabus .day-txt {
+		font-size: 18px;
+		line-height: 140%;
+		height: 120px;
+	}
+	.h160 {
+		height: 160px !important;	
+	}
+	.popover {
+		height: 160px;
+		width: 480px;
+	}
+	.popover .teaser {
+		width: auto;
+	}
+	.graduates .bg-img .arrow {
+    	top: 65px;
+	}
+	.graduates .bg-img-dima .arrow {
+		left: auto;
+	}
+	.graduates .bg-img-sergey .arrow {
+    	left: 93px;
+	}
+	.graduates .bg-img-sasha .arrow {
+		left: -4px;
+		right: auto;
+	}
+	.graduates .reviews .h160 {
+		width: 160px;
+	}
+	.syllabus .line {
+    	height: 147px;
+	}
+}

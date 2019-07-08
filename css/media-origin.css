@@ -1,0 +1,407 @@
+@media only screen and (max-width:1200px) {
+	header h1 {
+		width: 80%;
+	}
+	.compare .desc-l,
+	.compare .desc-r {
+		font-size: 16px
+	}
+	.compare .vs {
+		font-size: 26px;
+		line-height: 150px
+	}
+	section.advantages .block {
+		margin: 60px 30px
+	}
+	. syllabus .day-txt {
+		font-size: 15px;
+		line-height: 175%
+	}
+	.footer .soc-block p {
+		left: 0
+	}
+	.footer .logo {
+		margin-top: 37px
+	}
+	.footer .soc-block {
+		margin-top: 32px
+	}
+	.footer .soc-block ul {
+		margin-top: -7px
+	}
+}
+@media only screen and (max-width:991px) {
+	.compare .vs2 {
+		line-height: 130px
+	}
+	section.competition h2 {
+		text-align: center
+	}
+	form .cta-title {
+		margin-bottom: 10px
+	}
+	body {
+		font-size: 18px
+	}
+	header .logo {
+		margin-top: 35px
+	}
+	header h1 {
+		margin: 100px auto 50px auto;
+		width: 100%
+	}
+	header .cta-title {
+		font-size: 22px
+	}
+	.block-left {
+		padding: 100px 30px!important
+	}
+	.block-left div {
+		margin: 40px 0!important
+	}
+	.block-right {
+		padding: 100px 30px!important
+	}
+	.block-right div {
+		margin: 40px 0!important;
+	}
+	section.advantages .block {
+		margin: 50px 20px
+	}
+	.syllabus .day-txt {
+		font-size: 13px;
+		line-height: 142%;
+		height: 129px;
+	}
+	.h160 {
+		height: 200px!important;
+	}
+	.popover {
+		height: 200px;
+		width: 375px;
+	}
+	.popover .teaser {
+		width: auto;
+	}
+	.graduates .bg-img .arrow {
+		top: 85px;
+	}
+	.graduates .bg-img-dima .arrow {
+		left: -4px;
+	}
+	.graduates .bg-img-sergey .arrow {
+		left: -4px;
+	}
+	.graduates .bg-img-sasha .arrow {
+		left: auto;
+		right: -10px;
+	}
+	.graduates .reviews .h160 {
+		width: 50%;
+	}
+	.syllabus .line {
+		height: 157px;
+	}
+}
+@media only screen and (max-width:767px) {
+	body {
+		font-size: 16px;
+	}
+	header {
+		min-height: 570px;
+	}
+	header .logo {
+		margin-top: 25px;
+		text-align: center;
+	}
+	header h1 {
+		font-size: 40px;
+		margin: 60px auto 30px auto;
+		text-align: center;
+		width: 80%;
+	}
+	h2 {
+		font-size: 30px!important;
+		text-align: center!important
+	}
+	.header_form .padding-5 input,
+	.header_form .padding-5 button {
+		display: block;
+		margin: 10px auto;
+		width: 240px;
+	}
+	header .cta-title {
+		font-size: 20px;
+		text-align: center;
+	}
+	.compare .posrel div {
+		text-align: center;
+	}
+	.compare .posrel img {
+		margin-top: 20px
+	}
+	.compare .desc-l,
+	.compare .desc-r {
+		line-height: 185%;
+		padding-top: 10px
+	}
+	.compare .desc-l p:after,
+	.compare .desc-r p:before {
+		content: ""
+	}
+	.compare img {
+		height: 300px
+	}
+	.compare .vs2 {
+		font-size: 30px;
+		line-height: 120px;
+		text-align: center
+	}
+	.block-left p {
+		font-size: 16px!important;
+		line-height: 110%!important
+	}
+	.block-left,
+	.block-right {
+		padding: 80px 25px!important;
+		height: auto!important;
+		width: auto!important;
+		margin-left: 4%!important;
+		margin-right: 4%!important
+	}
+	.block-left div {
+		margin: 30px 0!important
+	}
+	.block-right p {
+		font-size: 16px!important;
+		line-height: 110%!important
+	}
+	.block-right div {
+		margin: 30px 0!important
+	}
+	section.advantages .block {
+		font-size: 18px;
+		margin: 40px 150px
+	}
+	.syllabus .day-txt {
+		font-size: 16px;
+		line-height: 160%;
+		height: 120px;
+		text-align: center!important
+	}
+	.syllabus .day-txt .arrow {
+		border-right: 0;
+		border-left: 1px solid #715b49;
+		border-bottom: 1px solid #715b49;
+		right: auto;
+		top: auto;
+		left: 50%;
+		bottom: 1px
+	}
+	.syllabus .days-even .day-txt .arrow {
+		border-right: 0;
+		border-top: 0;
+		border-left: 1px solid #715b49;
+		border-bottom: 1px solid #715b49;
+		right: auto;
+		top: auto;
+		left: 50%
+	}
+	.syllabus .crcl,
+	.syllabus .days-even .crcl {
+		padding: 0 10px 0 10px
+	}
+	.syllabus .days-odd .day-txt {
+		margin-right: auto
+	}
+	.syllabus .days-even .day-txt {
+		margin-left: auto
+	}
+	.syllabus .days .circle {
+		margin-right: 25px;
+		margin-left: 114px
+	}
+	.syllabus .days-even .crcl {
+		text-align: center
+	}
+	.syllabus .days-even .circle {
+		margin-left: 25px;
+		margin-right: 99px
+	}
+	.graduates .bg-img .arrow {
+		top: auto;
+		right: auto;
+		left: 50%;
+		bottom: 1px
+	}
+	.teaser {
+		width: 80%
+	}
+	.popover {
+		height: auto;
+		width: 80%
+	}
+	.popover .teaser {
+		width: auto
+	}
+	footer#footer div,
+	footer#footer div p {
+		text-align: center
+	}
+	.graduates .reviews .bg-img-zena {
+		background-position: left 63%
+	}
+	.graduates .reviews .h160 {
+		width: auto
+	}
+}
+@media only screen and (max-width:585px) {
+	header .logo {
+		margin-top: 15px
+	}
+	header {
+		min-height: 500px
+	}
+	header h1 {
+		margin: 40px auto 15px auto;
+		text-align: center;
+		width: 100%
+	}
+	.header_form .padding-5 input,
+	.header_form .padding-5 button {
+		display: block;
+		margin: 10px;
+		width: 96%
+	}
+	header .cta-title {
+		font-size: 18px;
+		text-align: center
+	}
+	h2 {
+		font-size: 26px!important
+	}
+	.block-left p {
+		font-size: 14px!important
+	}
+	.block-right p {
+		font-size: 14px!important
+	}
+	.compare .desc-l,
+	.compare .desc-r {
+		line-height: 170%
+	}
+	.compare .vs2 {
+		font-size: 28px;
+		line-height: 110px
+	}
+	section.advantages .block {
+		font-size: 16px;
+		margin: 40px 100px
+	}
+}
+@media only screen and (max-width:479px) {
+	body {
+		font-size: 14px
+	}
+	header {
+		min-height: 460px
+	}
+	header .logo {
+		margin-top: 0
+	}
+	header h1 {
+		font-size: 25px;
+		margin: 35px auto 15px auto
+	}
+	h2 {
+		font-size: 24px!important
+	}
+	section.competition .desc {
+		padding: 10px
+	}
+	.compare img {
+		height: 250px
+	}
+	.compare .desc-l,
+	.compare .desc-r {
+		font-size: 14px;
+		line-height: 150%
+	}
+	.compare .vs2 {
+		font-size: 26px;
+		line-height: 100px
+	}
+	section.advantages .block {
+		font-size: 14px;
+		margin: 40px 40px
+	}
+	.syllabus .day-txt {
+		font-size: 14px;
+		line-height: 135%;
+		height: 130px
+	}
+	.fcc .fcc-form {
+		max-height: 100%;
+		width: auto
+	}
+	.fcc .button {
+		height: auto;
+		line-height: normal
+	}
+}
+@media only screen and (max-width:319px) {
+	body {
+		font-size: 12px
+	}
+	header {
+		min-height: 435px
+	}
+	header .logo {
+		font-size: 14px
+	}
+	header .logo img {
+		height: 25px;
+		width: 25px
+	}
+	header h1 {
+		font-size: 20px;
+		margin: 30px auto 15px auto
+	}
+	h2 {
+		font-size: 18px!important
+	}
+	.compare .desc-l,
+	.compare .desc-r {
+		line-height: 130%
+	}
+	header .cta-title {
+		font-size: 16px
+	}
+	.compare .vs2 {
+		line-height: 90px
+	}
+	section.advantages .block {
+		font-size: 16px;
+		margin: 40px 0
+	}
+	.syllabus .day-txt {
+		font-size: 12px;
+		line-height: 120%;
+		height: 125px
+	}
+	.fcc .button {
+		font-size: 18px!important;
+		width: 150px!important
+	}
+	.syllabus .days .circle {
+		margin-right: 0;
+		margin-left: 88px
+	}
+	.syllabus .days-even .crcl {
+		text-align: center;
+		margin-left: -71px
+	}
+	.syllabus .days-even .circle {
+		margin-left: 0
+	}
+}
